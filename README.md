@@ -1,10 +1,7 @@
 # 👋 Hi, I'm leftsl!
 
 <!-- 
-Profile Picture Suggestion:
-Replace the link below with your own avatar or a favorite image that represents you.
-You can host your image on GitHub or use a service like Gravatar, or simply use your GitHub profile image:
-![Profile Picture](https://avatars.githubusercontent.com/u/leftsl?v=4)
+![小黄人 (1)](https://github.com/user-attachments/assets/b005fe74-0717-4049-9277-acb0b0e19234)
 -->
 
 <p align="center">
