@@ -52,7 +52,7 @@ I'm passionate about:
 ## 📫 Contact
 
 Based in China | Prefer email for professional contact  
-**Email:** [YourEmailHere@example.com]
+**Email:** [hailongzzzuo@163.com]
 
 ---
 
