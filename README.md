@@ -27,7 +27,7 @@ I'm passionate about:
 
 - **Deep learning** for medical image classification, detection, and segmentation  
 - **Natural Language Processing (NLP)**
-- Exploring **reinforcement learning**  
+- Exploring the Integration of Medical Imaging and **Deep Reinforcement Learning**
 - Building interactive projects for fun and learning
 
 ## 🔬 Research Focus
