@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/leftsl?v=4](https://github.com/leftsl/leftsl/blob/main/despicable%20me1.jpg)" width="120" style="border-radius: 50%;" alt="leftsl's avatar" />
+  <img src="https://github.com/leftsl/leftsl/blob/main/despicable%20me1.jpg" width="120" style="border-radius: 50%;" alt="leftsl's avatar" />
 </p>
 
 <!--
