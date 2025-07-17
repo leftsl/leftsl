@@ -17,9 +17,7 @@ Example:
 ![Banner](https://your-image-link.com/banner.png)
 -->
 
-<p align="center">
-  <img src="https://github.com/leftsl/leftsl/blob/main/bouilli.jpeg" alt="Banner" width="100%" />
-</p>
+
 
 🎓 **Information and Communication Engineering Major**  
 Currently pursuing research in **medical image processing**—using AI to automate the generation of medical imaging diagnostic reports.  
@@ -51,9 +49,14 @@ I'm passionate about:
 
 ## 📫 Contact
 
-Based in China | Prefer email for professional contact  
+Looking forward to meeting every interesting and like-minded person.
 **Email:** [hailongzzzuo@163.com]
 
 ---
 
 _Always open to collaboration, knowledge sharing, and new ideas. If you’re working on something exciting in AI, medical imaging, or electronics, feel free to reach out!_
+
+<div style="display: flex; gap: 20px; justify-content: center; width: 100%; padding: 20px; background: #f8f9fa; border-radius: 12px; margin: 20px 0;">
+<img src="https://github.com/leftsl/leftsl/raw/main/bouilli.jpeg" alt="Left" style="width: 48%; margin: auto; border-radius: 8px; height: 150px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="https://github.com/leftsl/leftsl/raw/main/bouilli.jpeg" alt="Right" style="width: 48%; margin: auto; border-radius: 8px; height: 150px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
