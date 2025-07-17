@@ -49,7 +49,7 @@ I'm passionate about:
 
 ## 📫 Contact
 
-Looking forward to meeting every interesting and like-minded person.
+Looking forward to meeting every interesting and like-minded person.<br>
 **Email:** [hailongzzzuo@163.com]
 
 ---
