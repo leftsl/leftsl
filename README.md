@@ -18,7 +18,7 @@ Example:
 -->
 
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/leftsl/leftsl/blob/main/bouilli.jpeg" alt="Banner" width="100%" />
 </p>
 
 🎓 **Information and Communication Engineering Major**  
