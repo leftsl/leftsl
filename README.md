@@ -50,7 +50,7 @@ I'm passionate about:
 ## 📫 Contact
 
 Looking forward to meeting every interesting and like-minded person.<br>
-**Email:** [hailongzzzuo@163.com]
+**Email:** [hailongzzzuo@163.com].<br>
 **ORCID:** 0009-0006-4006-2873
 
 ---
