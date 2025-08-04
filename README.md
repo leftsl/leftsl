@@ -38,7 +38,7 @@ I'm passionate about:
 
 ## 💡 Side Projects & Hobbies
 
-- 🎮 Making small games and interactive interfaces with **Game Studio** (always looking for ways to make life a bit more fun!)
+- 🎮 Making small games and interactive interfaces with **Game Studio** And other interactive software creation tools (always looking for ways to make life a bit more fun!)
 - 🛠️ Creating simple electronic crafts with **Arduino**—let’s exchange ideas if you’re into electronics!
 
 ## 🛠️ Skills
