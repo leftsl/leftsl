@@ -55,6 +55,11 @@ Looking forward to meeting every interesting and like-minded person.<br>
 
 **ORCID:** <a href="https://orcid.org/0009-0006-4006-2873" target="_blank">0009-0006-4006-2873</a>  
 **Email:** <a href="mailto:hailongzzzuo@163.com">hailongzzzuo@163.com</a>
+**ORCID:** 
+<a href="https://orcid.org/0009-0006-4006-2873" target="_blank">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" width="16" style="vertical-align: middle;">
+  0009-0006-4006-2873
+</a>
 
 ---
 
