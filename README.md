@@ -51,7 +51,7 @@ I'm passionate about:
 
 Looking forward to meeting every interesting and like-minded person.<br>
 **ORCID:** <a href="https://orcid.org/0009-0006-4006-2873" target="_blank">0009-0006-4006-2873</a>  
-**Email:** <a href="[https://mail.163.com/]()">hailongzzzuo@163.com</a>
+**Email:** <a href="https://mail.163.com">hailongzzzuo@163.com</a>
 
 ---
 
